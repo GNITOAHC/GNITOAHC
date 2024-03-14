@@ -63,18 +63,21 @@ I'm a 20-year-old computer science student passionate about technology, programm
 #### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnitoahc&show_icons=true&theme=github_dark_dimmed" alt="GNITOAHC's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnitoahc&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
+  <a href="https://github.com/gnitoahc/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnitoahc&show_icons=true&theme=github_dark_dimmed" alt="GNITOAHC's GitHub Stats" />
+  </a>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnitoahc&show_icons=true&theme=github_dark_dimmed" alt="GNITOAHC's GitHub Stats" /> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnitoahc&layout=compact&theme=github_dark_dimmed" alt="Top Languages" /> -->
   <br />
   <a href="https://github.com/gnitoahc/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnitoahc&theme=github_dark_dimmed" alt="GNITOAHC's streak" />
   </a>
   <br />
-  <a href="https://github.com/gnitoahc/">
+<!--   <a href="https://github.com/gnitoahc/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnitoahc&theme=github" alt="Activity Graph" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
-Last updated on March 6, 2024.
+Last updated on March 14, 2024.
