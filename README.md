@@ -1,29 +1,8 @@
 ### Hi there 👋, I'm Chao-Ting Chen
 
-<!--
-**GNITOAHC/GNITOAHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gnitoahc" alt="gnitoahc" />
-</p>
--->
 
 ![](https://komarev.com/ghpvc/?username=gnitoahc) <br />
 I'm a 20-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
@@ -66,18 +45,13 @@ I'm a 20-year-old computer science student passionate about technology, programm
   <a href="https://github.com/gnitoahc/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnitoahc&show_icons=true&theme=github_dark_dimmed" alt="GNITOAHC's GitHub Stats" />
   </a>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnitoahc&show_icons=true&theme=github_dark_dimmed" alt="GNITOAHC's GitHub Stats" /> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnitoahc&layout=compact&theme=github_dark_dimmed" alt="Top Languages" /> -->
   <br />
   <a href="https://github.com/gnitoahc/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnitoahc&theme=github_dark_dimmed" alt="GNITOAHC's streak" />
   </a>
   <br />
-<!--   <a href="https://github.com/gnitoahc/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnitoahc&theme=github" alt="Activity Graph" />
-  </a> -->
 </p>
 
 ---
 
-Last updated on March 14, 2024.
+Last updated on August 10, 2024.
