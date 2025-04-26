@@ -5,7 +5,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=gnitoahc) <br />
-I'm a 20-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
+I'm a 21-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
 
 #### 📘 About Me
 
@@ -22,13 +22,15 @@ I'm a 20-year-old computer science student passionate about technology, programm
 - **Language:** C/C++, JS/TS, Python, Golang, Rust
 - **Frameworks/Libraries:**
   - **Web Development:** React, NextJs, Node.js, ExpressJs, React Native
-  - **Machine Learning:** TensorFlow, Pandas, mlxtend, sklearn
+  - **Machine Learning:** TensorFlow, Pytorch, Pandas, mlxtend, sklearn
   - **API Design & Development:** gRPC, RESTful APIs, Swagger/OpenAPI
 - **Tools:** Git, Docker, Nginx, Neovim
-- **Database:** MySQL, PostgreSQL, MongoDB, MongoDB Atlas
+- **Database:** MySQL, PostgreSQL, MongoDB, MongoDB Atlas, Apache Cassandra
 
 #### 🌟 Projects
 
+- **[md-html](https://github.com/GNITOAHC/md-html):** A lightweight binary that converts markdown to HTML, available on Homebrew.
+- **[processq](https://github.com/GNITOAHC/processq):** A lightweight binary that submits jobs local machine, available on Homebrew.
 - **[CitizenMedia](https://github.com/citizenmedia-tw/):** A platform dedicated to fostering transparency and democratic engagement in Taiwan. Built with NextJs for the frontend and microservices architecture for the backend, employs technologies such as ExpressJs, Nginx, Golang, and gRPC, etc.
 - **[lsmanager](https://github.com/GNITOAHC/lsmanager):** A language server manager built in Rust. Inspired by [mason.nvim](https://github.com/williamboman/mason.nvim).
 - **[Mermaid-GPT](https://github.com/GNITOAHC/mermaid-gpt):** A tool for generating graph via Mermaid given the context.
@@ -54,4 +56,4 @@ I'm a 20-year-old computer science student passionate about technology, programm
 
 ---
 
-Last updated on August 10, 2024.
+Last updated on April 27, 2025.
