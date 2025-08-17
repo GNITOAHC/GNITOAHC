@@ -19,13 +19,14 @@ I'm a 21-year-old computer science student passionate about technology, programm
 
 #### 🔧 Technologies & Tools
 
-- **Language:** C/C++, JS/TS, Python, Golang, Rust
+- **Language:** C/C++, JS/TS, Python, Golang, Rust, Swift
 - **Frameworks/Libraries:**
-  - **Web Development:** React, NextJs, Node.js, ExpressJs, React Native
-  - **Machine Learning:** TensorFlow, Pytorch, Pandas, mlxtend, sklearn
+  - **Web Development:** React, NextJs, Node.js, ExpressJs
+  - **Mobile Development:** React Native, SwiftUI
+  - **Machine Learning:** TensorFlow, Pytorch, Pandas, mlxtend, sklearn, Huggingface Candle
   - **API Design & Development:** gRPC, RESTful APIs, Swagger/OpenAPI
-- **Tools:** Git, Docker, Nginx, Neovim
-- **Database:** MySQL, PostgreSQL, MongoDB, MongoDB Atlas, Apache Cassandra
+- **Tools:** Git, Docker, Nginx, Caddy, Neovim
+- **Database:** MySQL, PostgreSQL, MongoDB, Apache Cassandra
 
 #### 🌟 Projects
 
@@ -38,8 +39,7 @@ I'm a 21-year-old computer science student passionate about technology, programm
 
 #### 📚 I'm currently reading
 
-- "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-- "Writing an Interpreter in Go" by Thorsten Ball
+- "Build a Large Language Model (From Scratch)" by Sebastian Raschka
 
 #### 📊 GitHub Analytics
 
@@ -56,4 +56,4 @@ I'm a 21-year-old computer science student passionate about technology, programm
 
 ---
 
-Last updated on April 27, 2025.
+Last updated on Augest 18, 2025.
