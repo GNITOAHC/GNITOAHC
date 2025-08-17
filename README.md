@@ -16,6 +16,7 @@ I'm a 21-year-old computer science student passionate about technology, programm
   - Email: [chaotingchen10@gmail.com](mailto:chaotingchen10@gmail.com)
   - Portfolio: [www.chaoting.xyz](https://www.chaoting.xyz)
   - LinkedIn: [chaoting-chen](https://www.linkedin.com/in/chaoting-chen)
+  - GitHub: [GNITOAHC](https://github.com/GNITOAHC)
 
 #### 🔧 Technologies & Tools
 
@@ -27,6 +28,7 @@ I'm a 21-year-old computer science student passionate about technology, programm
   - **API Design & Development:** gRPC, RESTful APIs, Swagger/OpenAPI
 - **Tools:** Git, Docker, Nginx, Caddy, Neovim
 - **Database:** MySQL, PostgreSQL, MongoDB, Apache Cassandra
+- **Services:** Google Cloud, DigitalOcean, Supabase, DataStax Astra, Cloudflare
 
 #### 🌟 Projects
 
