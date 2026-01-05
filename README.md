@@ -5,11 +5,11 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=gnitoahc) <br />
-I'm a 21-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
+I'm a 22-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
 
 #### 📘 About Me
 
-- 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**, especially **LlamaIndex**.
+- 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**, especially NLP and AI workload optimization.
 - 👨‍💻 I'm working on a couple of side projects related to **web development** and **Retrieval-Augmented Generation**.
 - 💡 I'm interested in solving real-world problems using technology and am always looking for new challenges.
 - 📫 How to reach me
@@ -32,6 +32,8 @@ I'm a 21-year-old computer science student passionate about technology, programm
 
 #### 🌟 Projects
 
+- **[codesfer](https://github.com/GNITOAHC/codesfer):** Transfer your files and codes faster!! It's also self-hostable.
+- **[sqlite-gui](https://github.com/GNITOAHC/sqlite-gui):** Manage your SQLite or other relational databases more easily with a single binary.
 - **[md-html](https://github.com/GNITOAHC/md-html):** A lightweight binary that converts markdown to HTML, available on Homebrew.
 - **[processq](https://github.com/GNITOAHC/processq):** A lightweight binary that submits jobs local machine, available on Homebrew.
 - **[CitizenMedia](https://github.com/citizenmedia-tw/):** A platform dedicated to fostering transparency and democratic engagement in Taiwan. Built with NextJs for the frontend and microservices architecture for the backend, employs technologies such as ExpressJs, Nginx, Golang, and gRPC, etc.
@@ -58,4 +60,4 @@ I'm a 21-year-old computer science student passionate about technology, programm
 
 ---
 
-Last updated on Augest 18, 2025.
+Last updated on January 5, 2026.
