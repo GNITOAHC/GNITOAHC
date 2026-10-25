@@ -1,20 +1,20 @@
-### Hi there 👋, I'm Chao-Ting Chen
+### Hi there 👋, I'm Chao-Ting (Tim) Chen
 
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=gnitoahc) <br />
-I'm a 22-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.
+I'm a 22-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in San Francisco Bay Area, where I'm pursuing my degree and exploring the vast world of software.
 
 #### 📘 About Me
 
 - 🌱 I’m currently diving deep into **Machine Learning** and **Artificial Intelligence**, especially NLP and AI workload optimization.
-- 👨‍💻 I'm working on a couple of side projects related to **web development** and **Retrieval-Augmented Generation**.
 - 💡 I'm interested in solving real-world problems using technology and am always looking for new challenges.
 - 📫 How to reach me
   - Email: [chaotingchen10@gmail.com](mailto:chaotingchen10@gmail.com)
-  - Portfolio: [www.chaoting.xyz](https://www.chaoting.xyz)
+  - Portfolio: [www.chaoting.me](https://www.chaoting.me)
+  - Resume: [www.chaoting.me/resume.pdf](https://www.chaoting.me/resume.pdf)
   - LinkedIn: [chaoting-chen](https://www.linkedin.com/in/chaoting-chen)
   - GitHub: [GNITOAHC](https://github.com/GNITOAHC)
 
@@ -32,18 +32,14 @@ I'm a 22-year-old computer science student passionate about technology, programm
 
 #### 🌟 Projects
 
-- **[codesfer](https://github.com/GNITOAHC/codesfer):** Transfer your files and codes faster!! It's also self-hostable.
-- **[sqlite-gui](https://github.com/GNITOAHC/sqlite-gui):** Manage your SQLite or other relational databases more easily with a single binary.
+- **[codesfer](https://www.codesfer.io):** Transfer your files and codes faster!! It's also self-hostable.
+- **[Kamikami.shop](https://www.kamikami.shop):** Full-stack e-commerce app.
+- **[libargparse](https://github.com/GNITOAHC/libargparse):** A small, portable C99 command-line parsing library.
 - **[md-html](https://github.com/GNITOAHC/md-html):** A lightweight binary that converts markdown to HTML, available on Homebrew.
 - **[processq](https://github.com/GNITOAHC/processq):** A lightweight binary that submits jobs local machine, available on Homebrew.
-- **[CitizenMedia](https://github.com/citizenmedia-tw/):** A platform dedicated to fostering transparency and democratic engagement in Taiwan. Built with NextJs for the frontend and microservices architecture for the backend, employs technologies such as ExpressJs, Nginx, Golang, and gRPC, etc.
-- **[lsmanager](https://github.com/GNITOAHC/lsmanager):** A language server manager built in Rust. Inspired by [mason.nvim](https://github.com/williamboman/mason.nvim).
-- **[Mermaid-GPT](https://github.com/GNITOAHC/mermaid-gpt):** A tool for generating graph via Mermaid given the context.
-- **[2023CSCamp](https://github.com/GNITOAHC/2023CSCamp):** A tutorial of [Unity3D](https://unity.com/) for beginners. The demo is hosted on [itch.io](https://chaoting.itch.io/2023cscamp) and the slide is hosted by [GitHub Pages](https://gnitoahc.github.io/2023CSCamp/).
 
-#### 📚 I'm currently reading
-
-- "Build a Large Language Model (From Scratch)" by Sebastian Raschka
+#### 🧑‍💻 Open Source Contribution
+- **[ray-project/ray](https://github.com/ray-project/ray/pulls?q=is%3Apr+author%3AGNITOAHC):** AI compute engine.
 
 #### 📊 GitHub Analytics
 
@@ -60,4 +56,4 @@ I'm a 22-year-old computer science student passionate about technology, programm
 
 ---
 
-Last updated on January 5, 2026.
+Last updated on Oct 24, 2026.
